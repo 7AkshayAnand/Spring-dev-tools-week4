@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
   System.out.println("main method is running");
+        System.out.println("Akshay is testing ");
   add(3,4);
   multiply(3,4);
 }
